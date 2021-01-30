@@ -8,8 +8,7 @@ draft: false
 
 i.MXRTシリーズのRAMはOCRAM,DTCM,ITCMといった3つのコントローラよりアクセス可能となっており、RAM本体と3つのコントローラをFlexRAMと呼称している。
 
-{{< figure src="../../img/flexram1.png"class="center" width="100%" height="100%" >}}
-
+{{< figure src="../../img/flexram1.png"class="center" width="100%" height="100%" link="../../img/flexram1.png" target="_blank">}}
 ここで各種RAMについて軽く説明します。
  
 - OCRAM : On-Chip-RAMのこと
