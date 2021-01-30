@@ -4,6 +4,7 @@ title = "mimxrt_docs"
 theme = "noteworthy"
 publishDir = "docs"
 enableRobotsTXT = true
+pygmentsCodefences = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
 
@@ -23,6 +24,18 @@ disqusShortname = ""
 [markup.goldmark.renderer]
     unsafe = true
 
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "manni"
+    tabWidth = 4
+
 [params]
 	math = true
 	# Blog description at the top of the homepage. Supports markdown.
@@ -38,7 +51,7 @@ disqusShortname = ""
 	# Main
 	# email = "#"
   #  facebook = "#"
-    twitter = "#"
+    twitter = "https://twitter.com/onagawadosu"
 	# instagram = "#"
 	# tumblr = "#"
 	# reddit = "#"
@@ -64,7 +77,7 @@ disqusShortname = ""
   #  soundcloud = "#"
 
 	# Programming
-    github = "#"
+    github = "https://github.com/TakeshiOnagawa"
 	# stackoverflow = "#"
 	# gitlab = "#"
 	# codepen = "#"

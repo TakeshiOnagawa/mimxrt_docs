@@ -14,7 +14,7 @@
       
       <guid>https://takeshionagawa.github.io/mimxrt_docs/post/flexram_relocation/</guid>
       <description>i.MXRTシリーズのRAMはOCRAM,DTCM,ITCMといった3つのコントローラよりアクセス可能となっており、RAM本体と3つのコントローラをFlexRAMと呼称している。
- ここで各種RAMについて軽く説明します。
+  ここで各種RAMについて軽く説明します。
  OCRAM : On-Chip-RAMのこと ITCM : Instruction Tightly-Coupled Memory DTCM : Data Tightly-Coupled Memory  TCMというのは日本語では密結合メモリですが、CortexM7コアと同速度で動作し高速で通信可能であることから密結合という名称がついています。</description>
     </item>
     
