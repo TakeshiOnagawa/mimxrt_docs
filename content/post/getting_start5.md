@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "Getting start(5) : ペリフェラルの組み合わせでアプリケーションを作る"
 date: "2020-06-05"
 description: ""

@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "sai peripheralsのメモ"
 date: "2020-06-10"
 description: ""

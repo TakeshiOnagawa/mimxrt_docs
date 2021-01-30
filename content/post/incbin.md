@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: ".incbinを利用したバイナリファイルのリンク"
 date: "2020-05-04"
 description: ""

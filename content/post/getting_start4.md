@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "Getting start(4) : クロックおよびペリフェラル設定ツールの使い方"
 date: "2020-06-03"
 description: ""

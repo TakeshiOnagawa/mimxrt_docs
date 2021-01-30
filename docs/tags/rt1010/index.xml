@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RT1010 on Noteworthy</title>
-    <link>https://example.com/tags/rt1010/</link>
-    <description>Recent content in RT1010 on Noteworthy</description>
+    <title>RT1010 on mimxrt_docs</title>
+    <link>https://takeshionagawa.github.io/mimxrt_docs/tags/rt1010/</link>
+    <description>Recent content in RT1010 on mimxrt_docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/rt1010/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://takeshionagawa.github.io/mimxrt_docs/tags/rt1010/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting start(5) : ペリフェラルの組み合わせでアプリケーションを作る</title>
-      <link>https://example.com/post/getting_start5/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start5/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start5/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start5/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (4)の続きです。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(4) : クロックおよびペリフェラル設定ツールの使い方</title>
-      <link>https://example.com/post/getting_start4/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start4/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start4/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start4/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (3)の続きです。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(3) : ピン設定ツールの使い方</title>
-      <link>https://example.com/post/getting_start3/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start3/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start3/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start3/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (2)の続きです。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(2) : サンプルプロジェクトの実行とデバッグ</title>
-      <link>https://example.com/post/getting_start2/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start2/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start2/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start2/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (1)の続きです。&lt;br&gt;
 サンプルプロジェクトのインポートとその実行方法について説明します。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(1) : MIMXRTのための環境構築</title>
-      <link>https://example.com/post/getting_start1/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start1/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start1/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start1/</guid>
       <description>&lt;p&gt;この記事では、2020/05/27時点でのMIMXRTシリーズの環境構築を紹介する。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>debuggerが繋がらなくなったとき</title>
-      <link>https://example.com/post/debug_fix/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/debug_fix/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_fix/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/debug_fix/</guid>
       <description>&lt;p&gt;i.MXRTシリーズは外部ROMから起動する仕組みのためか変なコードを書き込んだりするとデバッガが繋がらなくなる事が多々あります。&lt;br&gt;
 今回はそれの対処法の一つを紹介したいと思います。&lt;/p&gt;</description>
     </item>

@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "FlexRAMのリロケーション"
 date: "2020-06-11"
 description: ""

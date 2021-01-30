@@ -1,66 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tips on Noteworthy</title>
-    <link>https://example.com/tags/tips/</link>
-    <description>Recent content in Tips on Noteworthy</description>
+    <title>Tips on mimxrt_docs</title>
+    <link>https://takeshionagawa.github.io/mimxrt_docs/tags/tips/</link>
+    <description>Recent content in Tips on mimxrt_docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://takeshionagawa.github.io/mimxrt_docs/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FlexRAMのリロケーション</title>
-      <link>https://example.com/post/flexram_relocation/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/flexram_relocation/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/flexram_relocation/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/flexram_relocation/</guid>
       <description>i.MXRTシリーズのRAMはOCRAM,DTCM,ITCMといった3つのコントローラよりアクセス可能となっており、RAM本体と3つのコントローラをFlexRAMと呼称している。
  ここで各種RAMについて軽く説明します。
  OCRAM : On-Chip-RAMのこと ITCM : Instruction Tightly-Coupled Memory DTCM : Data Tightly-Coupled Memory  TCMというのは日本語では密結合メモリですが、CortexM7コアと同速度で動作し高速で通信可能であることから密結合という名称がついています。</description>
     </item>
     
     <item>
-      <title>アプリケーションのRAM転送について</title>
-      <link>https://example.com/post/ram_execute/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/ram_execute/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>アプリケーションのRAM配置について</title>
-      <link>https://example.com/post/simple_ram_execute/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/simple_ram_execute/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/simple_ram_execute/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/simple_ram_execute/</guid>
       <description>&lt;p&gt;MCUXpressoの機能を使って簡単なRAM実行を行う手法の紹介&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>debuggerが繋がらなくなったとき</title>
-      <link>https://example.com/post/debug_fix/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/debug_fix/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_fix/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/debug_fix/</guid>
       <description>&lt;p&gt;i.MXRTシリーズは外部ROMから起動する仕組みのためか変なコードを書き込んだりするとデバッガが繋がらなくなる事が多々あります。&lt;br&gt;
 今回はそれの対処法の一つを紹介したいと思います。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>.incbinを利用したバイナリファイルのリンク</title>
-      <link>https://example.com/post/incbin/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/incbin/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/incbin/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/incbin/</guid>
       <description>&lt;p&gt;ARMのアセンブラ.incbinにより実行ファイルにバイナリファイルをリンクする方法の紹介です。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>メモリサイズの考え方</title>
-      <link>https://example.com/post/memory/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/memory/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/memory/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/memory/</guid>
       <description>&lt;p&gt;組み込み開発をやっているとリンカースクリプトだったりでメモリのサイズを規定したりすることがある。&lt;/p&gt;</description>
     </item>
     

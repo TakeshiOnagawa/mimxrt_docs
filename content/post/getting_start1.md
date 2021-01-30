@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "Getting start(1) : MIMXRTのための環境構築"
 date: "2020-05-27"
 description: ""

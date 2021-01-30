@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "debuggerが繋がらなくなったとき"
 date: "2020-05-26"
 description: ""

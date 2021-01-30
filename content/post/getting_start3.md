@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "Getting start(3) : ピン設定ツールの使い方"
 date: "2020-05-30"
 description: ""

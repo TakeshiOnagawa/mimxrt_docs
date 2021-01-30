@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "アプリケーションのRAM配置について"
 date: "2020-06-09"
 description: ""

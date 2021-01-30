@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "usbmidiを使う方法"
 date: "2020-05-03"
 description: ""

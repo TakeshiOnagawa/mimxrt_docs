@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "Getting start(2) : サンプルプロジェクトの実行とデバッグ"
 date: "2020-05-29"
 description: ""

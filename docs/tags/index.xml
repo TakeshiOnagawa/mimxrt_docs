@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Noteworthy</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Noteworthy</description>
+    <title>Tags on mimxrt_docs</title>
+    <link>https://takeshionagawa.github.io/mimxrt_docs/tags/</link>
+    <description>Recent content in Tags on mimxrt_docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://takeshionagawa.github.io/mimxrt_docs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tips</title>
-      <link>https://example.com/tags/tips/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/tags/tips/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/tips/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RT1010</title>
-      <link>https://example.com/tags/rt1010/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/tags/rt1010/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/rt1010/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/tags/rt1010/</guid>
       <description></description>
     </item>
     

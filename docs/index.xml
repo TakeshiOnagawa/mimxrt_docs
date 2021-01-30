@@ -1,141 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Noteworthy</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Noteworthy</description>
+    <title>mimxrt_docs</title>
+    <link>https://takeshionagawa.github.io/mimxrt_docs/</link>
+    <description>Recent content on mimxrt_docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://takeshionagawa.github.io/mimxrt_docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FlexRAMのリロケーション</title>
-      <link>https://example.com/post/flexram_relocation/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/flexram_relocation/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/flexram_relocation/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/flexram_relocation/</guid>
       <description>i.MXRTシリーズのRAMはOCRAM,DTCM,ITCMといった3つのコントローラよりアクセス可能となっており、RAM本体と3つのコントローラをFlexRAMと呼称している。
  ここで各種RAMについて軽く説明します。
  OCRAM : On-Chip-RAMのこと ITCM : Instruction Tightly-Coupled Memory DTCM : Data Tightly-Coupled Memory  TCMというのは日本語では密結合メモリですが、CortexM7コアと同速度で動作し高速で通信可能であることから密結合という名称がついています。</description>
     </item>
     
     <item>
-      <title>アプリケーションのRAM転送について</title>
-      <link>https://example.com/post/ram_execute/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/ram_execute/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>アプリケーションのRAM配置について</title>
-      <link>https://example.com/post/simple_ram_execute/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/simple_ram_execute/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/simple_ram_execute/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/simple_ram_execute/</guid>
       <description>&lt;p&gt;MCUXpressoの機能を使って簡単なRAM実行を行う手法の紹介&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(5) : ペリフェラルの組み合わせでアプリケーションを作る</title>
-      <link>https://example.com/post/getting_start5/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start5/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start5/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start5/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (4)の続きです。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(4) : クロックおよびペリフェラル設定ツールの使い方</title>
-      <link>https://example.com/post/getting_start4/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start4/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start4/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start4/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (3)の続きです。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(3) : ピン設定ツールの使い方</title>
-      <link>https://example.com/post/getting_start3/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start3/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start3/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start3/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (2)の続きです。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(2) : サンプルプロジェクトの実行とデバッグ</title>
-      <link>https://example.com/post/getting_start2/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start2/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start2/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start2/</guid>
       <description>&lt;p&gt;この記事は、Getting started with i.MXRT microcontroller (1)の続きです。&lt;br&gt;
 サンプルプロジェクトのインポートとその実行方法について説明します。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Getting start(1) : MIMXRTのための環境構築</title>
-      <link>https://example.com/post/getting_start1/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start1/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/getting_start1/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/getting_start1/</guid>
       <description>&lt;p&gt;この記事では、2020/05/27時点でのMIMXRTシリーズの環境構築を紹介する。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>debuggerが繋がらなくなったとき</title>
-      <link>https://example.com/post/debug_fix/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/debug_fix/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_fix/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/debug_fix/</guid>
       <description>&lt;p&gt;i.MXRTシリーズは外部ROMから起動する仕組みのためか変なコードを書き込んだりするとデバッガが繋がらなくなる事が多々あります。&lt;br&gt;
 今回はそれの対処法の一つを紹介したいと思います。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>.incbinを利用したバイナリファイルのリンク</title>
-      <link>https://example.com/post/incbin/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/incbin/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/incbin/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/incbin/</guid>
       <description>&lt;p&gt;ARMのアセンブラ.incbinにより実行ファイルにバイナリファイルをリンクする方法の紹介です。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>メモリサイズの考え方</title>
-      <link>https://example.com/post/memory/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/post/memory/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/memory/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/post/memory/</guid>
       <description>&lt;p&gt;組み込み開発をやっているとリンカースクリプトだったりでメモリのサイズを規定したりすることがある。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/about/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/about/</guid>
       <description>NXP社のi.MXRTシリーズについて開発ノートを公開しています。
 はじめに まずは何からやればいいの？と言われる方のために環境導入や開発ツールの使い方などを学習できるGetting startシリーズを用意しました。
  Getting start(1) : MIMXRTのための環境構築 Getting start(2) : サンプルプロジェクトの実行とデバッグ Getting start(3) : ピン設定ツールの使い方 Getting start(4) : クロックおよびペリフェラル設定ツールの使い方 Getting start(5) : ペリフェラルの組み合わせでアプリケーションを作る  これ以外にもシリーズでなにかかけたらいいなと思っています。</description>
     </item>
     
     <item>
-      <title>Topics</title>
-      <link>https://example.com/topics/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/topics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>https://takeshionagawa.github.io/mimxrt_docs/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>https://takeshionagawa.github.io/mimxrt_docs/archives/</guid>
       <description></description>
     </item>
     

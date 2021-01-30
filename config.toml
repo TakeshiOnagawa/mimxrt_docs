@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://takeshionagawa.github.io/mimxrt_docs"
 languageCode = "en-us"
-title = "Noteworthy"
+title = "mimxrt_docs"
 theme = "noteworthy"
 publishDir = "docs"
 enableRobotsTXT = true
@@ -36,61 +36,61 @@ disqusShortname = ""
 
 	# Add links to your accounts. Remove the ones you don't want to include.
 	# Main
-	email = "#"
-    facebook = "#"
+	# email = "#"
+  #  facebook = "#"
     twitter = "#"
-	instagram = "#"
-	tumblr = "#"
-	reddit = "#"
-	pinterest = "#"
-	youtube = "#"
-    vimeo = "#"
-	weibo = "#"
-	vk = "#"
-	linkedin = "#"
+	# instagram = "#"
+	# tumblr = "#"
+	# reddit = "#"
+	# pinterest = "#"
+	# youtube = "#"
+  #  vimeo = "#"
+	# weibo = "#"
+	# vk = "#"
+	# linkedin = "#"
 
 	# Writing
-    medium = "#"
-	blogger = "#"
-	wordpress = "#"
+  #  medium = "#"
+	# blogger = "#"
+	# wordpress = "#"
 
 	# Creative & Visual
-    dribbble = "#"
-	behance = "#"
-	deviantart = "#"
-	flickr = "#"
+  #  dribbble = "#"
+	# behance = "#"
+	# deviantart = "#"
+	# flickr = "#"
 
     # Audio & Music
-    soundcloud = "#"
+  #  soundcloud = "#"
 
 	# Programming
     github = "#"
-	stackoverflow = "#"
-	gitlab = "#"
-	codepen = "#"
+	# stackoverflow = "#"
+	# gitlab = "#"
+	# codepen = "#"
 
     # Academic
-    googlescholar = "#"
-    impactstory = "#"
-    orcid = "#"  
+  #  googlescholar = "#"
+  #  impactstory = "#"
+  #  orcid = "#"  
 
 # Menu links along the sidebar navigation.
 [[menu.main]]
 	identifier = "about"
 	name = "About"
-	url = "/about/"
+	url = "../mimxrt_docs/about/"
 	weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
 
 [[menu.main]]
 	identifier = "tags"
 	name = "Tags"
-	url = "/tags/"
+	url = "../mimxrt_docs/tags/"
 	weight = 2
 
 [[menu.main]]
 	name = "Archives"
 	identifier = "archives"
-	url = "/archives/"
+	url = "../mimxrt_docs/archives/"
 	weight = 3
 
 # Privacy configurations: https://gohugo.io/about/hugo-and-gdpr/

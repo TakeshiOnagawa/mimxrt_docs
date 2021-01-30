@@ -1,5 +1,4 @@
 ---
-author: "Takeshi Ogawa"
 title: "メモリサイズの考え方"
 date: "2020-05-03"
 description: ""
