@@ -74,7 +74,7 @@
     </item>
     
     <item>
-      <title>debuggerが繋がらなくなったとき</title>
+      <title>デバッガが繋がらなくなったとき</title>
       <link>https://takeshionagawa.github.io/mimxrt_docs/post/debug_fix/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
@@ -107,9 +107,10 @@
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://takeshionagawa.github.io/mimxrt_docs/about/</guid>
-      <description>NXP社のi.MXRTシリーズについて開発ノートを公開しています。
-はじめに まずは何からやればいいの？と言われる方のために環境導入や開発ツールの使い方などを学習できるGetting startシリーズを用意しました。
- Getting start(1) : MIMXRTのための環境構築 Getting start(2) : サンプルプロジェクトの実行とデバッグ Getting start(3) : ピン設定ツールの使い方 Getting start(4) : クロックおよびペリフェラル設定ツールの使い方 Getting start(5) : ペリフェラルの組み合わせでアプリケーションを作る  これ以外にもシリーズでなにかかけたらいいなと思っています。</description>
+      <description>About 本サイトは、私Takeshi OnagawaがNXP i.MXRTシリーズの開発ノートをまとめたものです。
+基礎的な解説は省いていることが多いのでARM系のMCUをある程度触ったことがある方向けとなっています。
+Contact 質問や意見なんかはTwitter(https://twitter.com/onagawadosu)でいただけるとレスポンスが早いと思います。
+即日対応は保証しませんがDMは開放してあるのでクローズドディスカッションなんかもできます。</description>
     </item>
     
     <item>

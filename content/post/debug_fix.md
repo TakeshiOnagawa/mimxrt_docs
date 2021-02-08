@@ -1,5 +1,5 @@
 ---
-title: "debuggerが繋がらなくなったとき"
+title: "デバッガが繋がらなくなったとき"
 date: "2020-05-26"
 description: ""
 tags: ["Tips","RT1010"]
